@@ -1,0 +1,63 @@
+.header {
+    background: linear-gradient(270deg, hsla(22, 16%, 64%, 50%), hsla(29, 67%, 23%, 50%));
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style:italic;
+  color: white;
+  font-size: 50px;
+  padding-bottom: 0px;
+  text-shadow: 0.5px 1px 0px #372818;
+}
+
+h5 {
+  text-align:center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #372818;
+  padding-top: 0px;
+  font-size: 15px;
+
+}
+
+.all {
+  font-family: monospace, serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: #4b403b;
+  text-align: justify;
+}
+
+body {
+background: linear-gradient(90deg,#FBC7D4, #9796F0);
+
+}
+
+.space {
+  margin-left: 40px;
+}
+
+.favsong {
+  width: 600px;
+}
+
+.formtext {
+   font-size: 20px;
+   font-family: monospace, serif;
+   color: #3f3146;
+}
+
+#placeholder {
+  font-size: 14px;
+}
+
+#submitbutton {
+  margin-top: 60px;
+  box-align: center;
+  margin-left: 20px;
+}
